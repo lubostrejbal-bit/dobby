@@ -1,0 +1,8 @@
+{
+  "type": "micro-wake-word-v2",
+  "wake_word": "hey_dobby",
+  "author": "lubos",
+  "version": 1,
+  "model": "hey_dobby.tflite",
+  "micro_wake_word_version": 2
+}
